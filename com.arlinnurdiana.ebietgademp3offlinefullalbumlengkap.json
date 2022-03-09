@@ -1,7 +1,6 @@
 {
 "Ads": [
 {
-     fa
 // NOTE
 // belum FAN DAN STARTRAPP
 // baru unity saja
@@ -16,7 +15,7 @@
 "MODE_mp3_online_offline" : "offline",
 
 
-"MODE_NO_ADS" : false,
+"MODE_NO_fADS" : false,
 "ADS_on_START" : true,
 "ads_on_exit_dialog" : true,
 
