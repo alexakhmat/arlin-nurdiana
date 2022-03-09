@@ -42,9 +42,9 @@
 "FAN_INTER" : "id fan",
 "FAN_BANNER" : "id fan",
 
-"UNITY_BANNER" : "Banner_Android",
-"UNITY_INTERSTITIAL" : "Interstitial_Android",
-"UNITY_GAME_ID" : "4183289",
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "inter",
+"UNITY_GAME_ID" : "4114625",
 
 "startappid" : "207333353",
 "enable_strap" : true,
