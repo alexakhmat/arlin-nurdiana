@@ -1,14 +1,13 @@
 {
 "Ads": [
 {
-     fa
 // NOTE
 // belum FAN DAN STARTRAPP
 // baru unity saja
      
      
 // 0 artinya tidak di redirect
-// 1 artinya di redirect
+// 1 artinya di redireffF ct
 "STATUS_APP" : "0",
 "LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.package.name",
 
